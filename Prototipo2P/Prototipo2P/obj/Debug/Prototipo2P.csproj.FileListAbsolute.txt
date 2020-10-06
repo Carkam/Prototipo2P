@@ -1,0 +1,17 @@
+D:\caanc\Desktop\Prototipo2P\Prototipo2P\bin\Debug\Prototipo2P.exe.config
+D:\caanc\Desktop\Prototipo2P\Prototipo2P\bin\Debug\Prototipo2P.exe
+D:\caanc\Desktop\Prototipo2P\Prototipo2P\bin\Debug\Prototipo2P.pdb
+D:\caanc\Desktop\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.csprojAssemblyReference.cache
+D:\caanc\Desktop\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.Form1.resources
+D:\caanc\Desktop\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.Properties.Resources.resources
+D:\caanc\Desktop\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.csproj.GenerateResource.cache
+D:\caanc\Desktop\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.csproj.CoreCompileInputs.cache
+D:\caanc\Desktop\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.exe
+D:\caanc\Desktop\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.pdb
+D:\caanc\Desktop\Prototipo2P\Prototipo2P\bin\Debug\CapaVista.dll
+D:\caanc\Desktop\Prototipo2P\Prototipo2P\bin\Debug\CapaControlador.dll
+D:\caanc\Desktop\Prototipo2P\Prototipo2P\bin\Debug\CapaModelo.dll
+D:\caanc\Desktop\Prototipo2P\Prototipo2P\bin\Debug\CapaVista.pdb
+D:\caanc\Desktop\Prototipo2P\Prototipo2P\bin\Debug\CapaControlador.pdb
+D:\caanc\Desktop\Prototipo2P\Prototipo2P\bin\Debug\CapaModelo.pdb
+D:\caanc\Desktop\Prototipo2P\Prototipo2P\obj\Debug\Prototipo2P.csproj.CopyComplete

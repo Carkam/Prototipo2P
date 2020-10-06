@@ -1,0 +1,14 @@
+D:\caanc\Desktop\CapaVista\CapaVista\bin\Debug\CapaVista.dll
+D:\caanc\Desktop\CapaVista\CapaVista\bin\Debug\CapaVista.pdb
+D:\caanc\Desktop\CapaVista\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+D:\caanc\Desktop\CapaVista\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\caanc\Desktop\CapaVista\CapaVista\obj\Debug\CapaVista.dll
+D:\caanc\Desktop\CapaVista\CapaVista\obj\Debug\CapaVista.pdb
+D:\caanc\Desktop\CapaVista\CapaVista\bin\Debug\CapaControlador.dll
+D:\caanc\Desktop\CapaVista\CapaVista\bin\Debug\CapaControlador.pdb
+D:\caanc\Desktop\CapaVista\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+D:\caanc\Desktop\CapaVista\CapaVista\obj\Debug\CapaVista.IngresarProducto.resources
+D:\caanc\Desktop\CapaVista\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\caanc\Desktop\CapaVista\CapaVista\bin\Debug\CapaModelo.dll
+D:\caanc\Desktop\CapaVista\CapaVista\bin\Debug\CapaModelo.pdb
+D:\caanc\Desktop\CapaVista\CapaVista\obj\Debug\CapaVista.EliminarProducto.resources

@@ -1,0 +1,6 @@
+D:\caanc\Desktop\CapaVista\CapaModelo\bin\Debug\CapaModelo.dll
+D:\caanc\Desktop\CapaVista\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\caanc\Desktop\CapaVista\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+D:\caanc\Desktop\CapaVista\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\caanc\Desktop\CapaVista\CapaModelo\obj\Debug\CapaModelo.dll
+D:\caanc\Desktop\CapaVista\CapaModelo\obj\Debug\CapaModelo.pdb
